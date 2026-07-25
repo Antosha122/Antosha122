@@ -8,7 +8,6 @@
   <a href="mailto:burkin.anton@bk.ru" target="_blank">
     <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Antosha122&label=👀%20Просмотров&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
