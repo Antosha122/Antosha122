@@ -3,8 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Antosha122/Antosha122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
