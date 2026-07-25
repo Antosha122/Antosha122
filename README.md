@@ -11,7 +11,7 @@
   <img src=![](https://komarev.com/ghpvc/?username=your-github-username&color=green)/>
 </p>
 ---
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 ### 👨‍💻 Обо мне
 
 Я изучаю **Go** и **Python**, активно применяю их для создания веб-приложений и инструментов анализа данных. В свободное время работаю над pet-проектами, которые решают интересные прикладные задачи: от прогнозирования событий до систем раннего предупреждения.
