@@ -29,7 +29,6 @@
 *   [**HLTV_parser**](https://github.com/Antosha122/HLTV_parser) — Go-приложение для прогнозирования матчей CS2 по данным HLTV.
 *   [**telemetry-early-warning-system**](https://github.com/Antosha122/telemetry-early-warning-system) — Система раннего предупреждения на основе телеметрических данных.
 *   [**qr_qod_mobile_menu**](https://github.com/Antosha122/qr_qod_mobile_menu) — QR-меню для ресторанов с Telegram-ботом.
-*   [**city-events-frontend**](https://github.com/Antosha122/city-events-frontend) — Фронтенд для городских событий.
 
 ---
 
