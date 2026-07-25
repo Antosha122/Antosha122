@@ -45,17 +45,6 @@
 
 ---
 
-### 📊 Моя статистика на GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antosha122&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antosha122&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=Antosha122&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ### 📫 Как связаться
 
