@@ -51,6 +51,12 @@
 Я всегда открыт к новым знакомствам, обсуждению проектов и сотрудничеству. Лучший способ связаться со мной — через Telegram или почту.
 
 <div align="center">
-  <a href="https://t.me/anton_aleksandrov1ch" target="_blank"><img src="https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:burkin.anton@bk.ru" target="_blank"><img src="https://img.shields.io/badge/Отправить_письмо-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/anton_aleksandrov1ch" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:burkin.anton@bk.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
+  </a>
+  <br><br>
+  <b>📧 burkin.anton@bk.ru</b> — просто скопируй адрес
 </div>
