@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
   </a>
   <a ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)>
+  </a>
 </p>
 
 ---
