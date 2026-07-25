@@ -1,5 +1,5 @@
 <h1 align="center">Привет! 👋 Меня зовут Антон</h1>
-<h3 align="center">Backend-разработчик из России, увлеченный Data Science и системной архитектурой</h3>
+<h3 align="center">Backend-разработчик, увлеченный Data Science и системной архитектурой</h3>
 
 <p align="center">
   <a href="https://t.me/anton_aleksandrov1ch" target="_blank">
