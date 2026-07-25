@@ -8,7 +8,7 @@
   <a href="mailto:burkin.anton@bk.ru" target="_blank">
     <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Antosha122&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src=![](https://komarev.com/ghpvc/?username=your-github-username&color=green)/>
 </p>
 ---
 
