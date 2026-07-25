@@ -8,6 +8,7 @@
   <a href="mailto:burkin.anton@bk.ru" target="_blank">
     <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
   </a>
+  <a ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)>
 </p>
 
 ---
@@ -84,7 +85,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Antosha122)](https://git.io/streak-stats)
