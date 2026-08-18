@@ -31,7 +31,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Antosha122)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Antosha122&theme=dark)](https://git.io/streak-stats)
 
 ### 🛠️ Технологии и инструменты
 
